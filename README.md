@@ -1,0 +1,2 @@
+# BasicAngularJS_CodeigniterHMVC_BasicCRUD
+AngularJs and Codeigniter HMVC CRUD
