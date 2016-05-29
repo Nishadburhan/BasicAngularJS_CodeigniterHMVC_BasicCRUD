@@ -8,3 +8,5 @@ AngularJs and Codeigniter HMVC CRUD, Users can Add,Edit,Delete and filter Contac
 
 :+1: Good Luck!
 
+> Report errors and Bugs : nishadburhanofficial@gmail.com
+
